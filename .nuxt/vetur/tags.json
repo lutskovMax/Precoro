@@ -1,0 +1,17 @@
+{
+  "AvailableDocuments": {
+    "description": "Auto imported from components/AvailableDocuments.vue"
+  },
+  "AvailableLocations": {
+    "description": "Auto imported from components/AvailableLocations.vue"
+  },
+  "CounterSelected": {
+    "description": "Auto imported from components/CounterSelected.vue"
+  },
+  "MainInfo": {
+    "description": "Auto imported from components/MainInfo.vue"
+  },
+  "UserRoles": {
+    "description": "Auto imported from components/UserRoles.vue"
+  }
+}
